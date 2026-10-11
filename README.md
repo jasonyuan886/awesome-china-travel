@@ -49,6 +49,7 @@
 ## 🗺️ Travel Guides
 
 ### Planning
+- [TripInfoHub](https://tripinfohub.com/en/) — China itineraries and city guides covering local transport, food and luggage planning.
 - [TravelChinaGuide](https://www.travelchinaguide.com) — Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com) — Tour and travel planning
 
@@ -111,3 +112,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ---
 
 *Made with ❤️ for China travelers. For translation needs, visit [aihubai.cn](https://aihubai.cn).*
+
