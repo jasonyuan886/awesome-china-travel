@@ -51,6 +51,7 @@
 ### Planning
 - [TravelChinaGuide](https://www.travelchinaguide.com) — Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com) — Tour and travel planning
+- [chinamapbook](https://chinamapbook.com/) — Free sightseeing map for first-time China visitors; save places, food and notes into a personal PDF travel book for offline use
 
 ### Destinations
 - **Beijing** — Great Wall, Forbidden City, Temple of Heaven
