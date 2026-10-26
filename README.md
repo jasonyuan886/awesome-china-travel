@@ -51,6 +51,7 @@
 ### Planning
 - [TravelChinaGuide](https://www.travelchinaguide.com) — Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com) — Tour and travel planning
+- [China Travel Check](https://gochina.taoliapp.com/) — Practical English field manual for independent China travel, including 240-hour visa-free transit
 
 ### Destinations
 - **Beijing** — Great Wall, Forbidden City, Temple of Heaven
