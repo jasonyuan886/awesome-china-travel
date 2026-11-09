@@ -51,7 +51,7 @@
 ### Planning
 - [TravelChinaGuide](https://www.travelchinaguide.com) — Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com) — Tour and travel planning
-
+- [Discover Real China](https://discoverrealchina.com) - First-time visitor guides: itineraries, trains, eSIM, payments
 ### Destinations
 - **Beijing** — Great Wall, Forbidden City, Temple of Heaven
 - **Shanghai** — The Bund, Yu Garden, modern skyline
