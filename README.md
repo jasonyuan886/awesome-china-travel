@@ -51,6 +51,7 @@
 ### Planning
 - [TravelChinaGuide](https://www.travelchinaguide.com) — Comprehensive travel information
 - [China Highlights](https://www.chinahighlights.com) — Tour and travel planning
+- [China Tours Local](https://chinatourslocal.com/plan) — Free trip planner that generates a full China travel guide in the browser, with entry rules and an itemised budget
 
 ### Destinations
 - **Beijing** — Great Wall, Forbidden City, Temple of Heaven
