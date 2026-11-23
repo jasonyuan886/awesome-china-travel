@@ -44,6 +44,7 @@
 ### Tools
 - **[China Block Checker](https://aihubai.cn/block-checker.html)** — Check if a website works in China
 - VPN services (research current options before traveling)
+- **[Tsuki (月兔VPN)](https://buddahs-temptation.win/tsuki)** — Hysteria2 (UDP) proxy subscriptions for compatible iOS, Android, Windows and macOS clients, with nodes in Hong Kong, Singapore, Indonesia, Japan and the United States.
 - International roaming data as alternative
 
 ## 🗺️ Travel Guides
